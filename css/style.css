@@ -1,0 +1,22 @@
+body {
+    background-color: #203036;
+    color: #fff;
+}
+
+h1 {
+    color: white;
+}
+
+#titledias {
+    color: yellow;
+}
+
+.dia {
+    color: #000;
+    border: 3px solid;
+    background-color: yellow;
+}
+
+.aulaastronomia {
+    color: red;
+}
